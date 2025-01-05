@@ -40,7 +40,7 @@ New Joiners
 
 ## **Final Conclusion:**
 
-That’s it, now you have a comprehensive Power BI dashboard with and Executive Summary to analyze historical data and also a Churn Prediction page to predict future churners.
+A comprehensive Power BI dashboard with and Executive Summary to analyze historical data and also a Churn Prediction page to predict future churners.
 
 
 
