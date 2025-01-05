@@ -3,7 +3,7 @@
 In today’s competitive business environment, retaining customers is crucial for long-term success. Churn analysis is a key technique used to understand and reduce this customer attrition. It involves examining customer data to identify patterns and reasons behind customer departures. By using advanced data analytics and machine learning, businesses can predict which customers are at risk of leaving and understand the factors driving their decisions. This knowledge allows companies to take proactive steps to improve customer satisfaction and loyalty.
 
 ## **Dataset used**
-- <a href="https://github.com/Ryaz16/Churn-Analysis-Prediction-360/blob/main/Customer_Data.csv"> Online Store Data</a>
+- <a href="https://github.com/Ryaz16/Churn-Analysis-Prediction-360/blob/main/Customer_Data.csv"> Telecom Churn Data</a>
 
 
 # Who is the Target Audience
@@ -24,7 +24,7 @@ Identify a Method to Predict Future Churners
 
  ## **Dashboard**
 
-![Alt text of the image](https://github.com/Ryaz16/Store-Annual-Report-/blob/main/Online%20Store%20Data%20Analysis%20Dashboard.png)
+![Alt text of the image](https://github.com/Ryaz16/Churn-Analysis-Prediction-360/blob/main/CHURN.png)
 
 
 
@@ -36,8 +36,7 @@ New Joiners
 
 ## **Final Conclusion:**
 
-To improve sales of Online Store, women customers of the age group (30-49 yrs) living in Maharashtra, Karnataka and Uttar Pradesh must be targeted by showing ads/offers/coupons available on Amazon, Flipkart and Myntra
-
+That’s it, now you have a comprehensive Power BI dashboard with and Executive Summary to analyze historical data and also a Churn Prediction page to predict future churners.
 
 
 
