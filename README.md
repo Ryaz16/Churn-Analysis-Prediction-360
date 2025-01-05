@@ -6,6 +6,7 @@ In today’s competitive business environment, retaining customers is crucial fo
 - <a href="https://github.com/Ryaz16/Churn-Analysis-Prediction-360/blob/main/Customer_Data.csv"> Telecom Churn Data</a>
 
 
+
 # Who is the Target Audience
 
 Although this project focuses on churn analysis for a telecom firm, the techniques and insights are applicable across various industries. From retail and finance to healthcare and beyond, any business that values customer retention can benefit from churn analysis. We will explore the methods, tools, and best practices for reducing churn and improving customer loyalty, transforming data into actionable insights for sustained success.
@@ -25,6 +26,9 @@ Identify a Method to Predict Future Churners
  ## **Dashboard**
 
 ![Alt text of the image](https://github.com/Ryaz16/Churn-Analysis-Prediction-360/blob/main/CHURN.png)
+
+ ## **Live Dashboard**
+- <a href="https://www.novypro.com/profile_projects/ryazbeig?Popup=memberProject&Data=1736028433376x783850607187445100"> Churn Analysis & Prediction</a>
 
 
 
