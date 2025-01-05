@@ -3,7 +3,7 @@
 In today’s competitive business environment, retaining customers is crucial for long-term success. Churn analysis is a key technique used to understand and reduce this customer attrition. It involves examining customer data to identify patterns and reasons behind customer departures. By using advanced data analytics and machine learning, businesses can predict which customers are at risk of leaving and understand the factors driving their decisions. This knowledge allows companies to take proactive steps to improve customer satisfaction and loyalty.
 
 ## **Dataset used**
-- <a href="https://github.com/Ryaz16/Store-Annual-Report-/blob/main/Store%20Data%20Analysis.xlsx"> Online Store Data</a>
+- <a href="https://github.com/Ryaz16/Churn-Analysis-Prediction-360/blob/main/Customer_Data.csv"> Online Store Data</a>
 
 
 # Who is the Target Audience
